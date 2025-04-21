@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-debug-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-debug-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.interjail.app-debug-28:/layout_activity_main.xml.flat",
+        "source": "com.example.interjail.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-debug-28:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-main-30:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-debug-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-debug-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-debug-28:\\drawable_qr_placeholder.xml.flat",
+        "source": "C:\\Users\\gerri\\.gradle\\daemon\\8.11.1\\com.example.interjail.app-main-30:\\drawable\\qr_placeholder.xml"
+    }
+]

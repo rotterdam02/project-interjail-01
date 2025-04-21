@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="300dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h300v300h-300z" />
+
+    <!-- QR code pattern (simplified example) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,20h60v60h-60z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M220,20h60v60h-60z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,220h60v60h-60z" />
+    
+    <!-- Center pattern -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,100h100v100h-100z" />
+    
+    <!-- Additional QR code elements -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,20h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M140,20h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M180,20h20v20h-20z" />
+    
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,100h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M60,100h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M220,100h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M260,100h20v20h-20z" />
+    
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,140h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M60,140h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M220,140h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M260,140h20v20h-20z" />
+    
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,180h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,180h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M140,180h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M180,180h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M220,180h20v20h-20z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M260,180h20v20h-20z" />
+</vector>
